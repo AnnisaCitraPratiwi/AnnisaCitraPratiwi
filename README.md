@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hello, I'm Annisa Citra! 👋
 
-<!--
-**AnnisaCitraPratiwi/AnnisaCitraPratiwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer enthusiast and passionate about creating beautiful and functional websites. Currently diving into HTML, CSS, and JavaScript, and exploring frameworks like Tailwind CSS and React.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Building my personal portfolio
+- Learning frontend development with Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Tailwind CSS for responsive design
+
+💬 Ask me about:
+- Basics of web development
+- Tips for getting started with HTML and CSS
+
+📫 How to reach me:
+- [Email](mailto:annisacitrra@gmail.com)
+- [LinkedIn](linkedin.com/in/annisa-citra-pratiwi-271026276/))
+
+⚡ Fun fact:
+I love blending creativity with technology to solve real-world problems.
+
+Let's code and create something amazing together! 🌟
