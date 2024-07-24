@@ -4,7 +4,6 @@ I'm a web developer enthusiast and passionate about creating beautiful and funct
 
 🔭 I’m currently working on:
 - Building my personal portfolio
-- Learning frontend development with Tailwind CSS
 
 🌱 I’m currently learning:
 - Tailwind CSS for responsive design
@@ -15,7 +14,7 @@ I'm a web developer enthusiast and passionate about creating beautiful and funct
 
 📫 How to reach me:
 - [Email](mailto:annisacitrra@gmail.com)
-- [LinkedIn](linkedin.com/in/annisa-citra-pratiwi-271026276/))
+- [LinkedIn](linkedin.com/in/annisa-citra-pratiwi-271026276/)
 
 ⚡ Fun fact:
 I love blending creativity with technology to solve real-world problems.
