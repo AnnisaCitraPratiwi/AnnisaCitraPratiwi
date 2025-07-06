@@ -1,69 +1,69 @@
-<h1 align="center">Hi there, I'm Annisa Citra 👋</h1>
-<p align="center">
-  🚀 Aspiring Backend Developer | ☁️ Cloud Enthusiast | 🛠️ API Builder <br>
-  <i>"One step at a time. One API at a time."</i>
-</p>
-
----
-
-### 🔍 About Me
-
-I'm a web developer with a growing passion for backend development.  
-Currently focused on building **RESTful APIs** with **Express.js** and deploying them using **Google Cloud Platform (GCP)**.  
-I enjoy crafting solutions that are clean, scalable, and ready for the real world.
-
----
-
-### ⚙️ Tech Stack & Tools
-
-<!-- Badges Section -->
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
----
-
-### 🚧 Current Focus
-
-- 🔧 Building RESTful APIs with **Express.js**
-- ☁️ Deploying services to **Google Cloud** (Cloud Run & Firestore)
-- 📚 Learning backend architecture & best practices
-- ⚙️ Exploring **Laravel** for structured backend development
-
----
-
-### 📌 Highlighted Skills
-
-| Area           | Skills                                               |
-|----------------|------------------------------------------------------|
-| Backend        | Express.js, Laravel, Node.js                        |
-| Cloud & DevOps | Google Cloud Platform, Firestore, Cloud Run         |
-| Tools          | Postman, Git & GitHub, VS Code                      |
-| Basic Frontend | HTML, CSS                                            |
-
----
-
-### 📬 Let’s Connect
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:annisacitrra@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/annisa-citra-pratiwi-271026276/)
-
----
-
-### ✨ Fun Fact
-
-> I'm not just writing code — I'm building real-world solutions from scratch, deploying them to the cloud, and learning something new every step of the way. Tech makes me feel empowered!
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm Annisa Citra Pratiwi 👋</h1>
+<h3 align="center">Web Developer • UI/UX Enthusiast • Tech Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnisaCitraPratiwi&theme=radical&hide_title=true&layout=compact" />
+  <a href="mailto:annisacitrra@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/annisa-citra-pratiwi-271026276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+
+### 🚀 About Me
+
+I'm a passionate web developer focused on creating clean, responsive, and user-friendly websites. I enjoy transforming ideas into digital experiences — from front-end design to back-end logic and cloud deployment.
+
+I believe in building **not just working products**, but delightful and scalable solutions. I'm currently deepening my skills in both the **frontend (React, Tailwind CSS)** and **backend (Express.js, Laravel)**, as well as exploring **Google Cloud Platform** for deployment.
+
+---
+
+### 🔧 Tech Stack
+
+**Languages & Frameworks**
+- HTML5, CSS3, JavaScript (ES6+), PHP  
+- Tailwind CSS, React.js  
+- Node.js + Express.js, Laravel  
+
+**Tools & Cloud**
+- Git & GitHub, Postman, VS Code  
+- Google Cloud Platform (App Engine, Cloud Run, Firestore)  
+
+---
+
+### 🛠️ What I'm Working On
+- 🌐 Personal portfolio site built with React & Tailwind  
+- 🧠 Full-stack project using Laravel and REST APIs  
+- ☁️ Deploying scalable apps on Google Cloud  
+
+---
+
+### 📚 Currently Exploring
+- 🔄 API integration & state management  
+- 📦 Cloud-native app architecture on GCP  
+- 🎨 Enhancing UX in web apps  
+
+---
+
+### 💬 Let's Connect
+
+I'm open to collaboration, internship opportunities, freelance work, or just casual dev talk!  
+Reach me here:
+
+📩 **annisacitrra@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/annisa-citra-pratiwi-271026276/)
+
+---
+
+### ⚡ Fun Fact
+
+I love merging **code and creativity** — solving real-world problems through tech and design.
+
+> “Even the rough days don’t last forever. Gotta keep moving.”
+
+---
+
+### 📊 GitHub Insights
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnisaCitraPratiwi&theme=radical&hide_title=true&layout=compact)
+
+---
+
